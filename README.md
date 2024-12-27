@@ -1,9 +1,10 @@
-## Hi there 👋
+## Hi there👋
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HijiriSato88&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=HijiriSato88&theme=onedark&show_icons=true" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HijiriSato88&theme=vue)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HijiriSato88&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HijiriSato88&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ### About Me
