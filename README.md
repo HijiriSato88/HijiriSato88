@@ -2,7 +2,11 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HijiriSato88&theme=vue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HijiriSato88&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+## 🏃‍♀️ Activities
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=HijiriSato88&theme=light&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HijiriSato88&theme=light&layout=compact" />
+</div>
 
 <!--
 ### About Me
