@@ -19,9 +19,6 @@
 - 😄 Pronouns: **[Your Pronouns]**
 - ⚡ Fun fact: **[An Interesting Fact About You]**
 -->
-### My Projects
-
-- Check out my projects on Protopedia: [Protopedia Profile](https://protopedia.net/prototyper/h_sato08)
 
 <!--
 **HijiriSato88/HijiriSato88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
